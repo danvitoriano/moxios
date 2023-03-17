@@ -9,7 +9,7 @@ import createError from 'axios/lib/core/createError'
 const TimeoutException = new Error('Timeout: Stub function not called.')
 const DEFAULT_WAIT_DELAY = 1
 
-// The default adapter
+// The default adapterrrrrrr
 let defaultAdapter
 
 /**
